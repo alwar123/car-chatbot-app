@@ -1,4 +1,6 @@
 import os
+import os
+os.system('pip install nltk')
 import nltk
 import ssl
 import streamlit as st
